@@ -5,7 +5,7 @@
 
 ## Изображение проекта
 
-<img src="https://i.ibb.co/N3yhNBY/image.png" width="600px">
+<img src="https://i.ibb.co/jh8XM9N/image.png" width="600px">
 ### Разработчик
 
 - [Ermakov Nikita](https://github.com/agr0meow)
