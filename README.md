@@ -6,7 +6,7 @@
 ## Изображение проекта
 
 <img src="https://i.ibb.co/jh8XM9N/image.png" width="800px">
-<img src="https://i.ibb.co/N1M8gvJ/image.png" width="800px">
+<img src="https://i.ibb.co/vQYNnbX/image.png" width="800px">
 <img src="https://i.ibb.co/1RsTtsL/image.png" width="800px">
 
 ### Разработчик
